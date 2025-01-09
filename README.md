@@ -1,1 +1,1 @@
-# Blogger (A-Z) Full Course Tutorial
+# Blogger Full Course Tutorial
