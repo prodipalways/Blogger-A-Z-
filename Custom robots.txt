@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.motivationbangla.com/atom.xml?redirect=false&start-index=1&max-results=500
